@@ -1,64 +1,172 @@
-# Hi there, I'm Kishore Kumar 👋
+<div align="center">
 
-🎓 Final-Year B.E. CSE Student @ PSNA College of Engineering & Technology, Dindigul
-📍 Tamil Nadu, India
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Kishore%20Kumar%20K&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descColor=8b949e" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Kishore+Kumar+%F0%9F%91%8B;Aspiring+Full+Stack+Developer;Java+%7C+React+%7C+Spring+Boot+%7C+AI;Building+Real-World+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-- 🔐 Building an **AI-Driven Hybrid Threat Hunting System** using anomaly detection + rule-based intelligence
-- 📄 Published at **ICLTSET 2026** (Paper ID: 243)
-- 💻 Passionate about Full Stack Web Development and Cybersecurity
-- 🤖 Built a local AI chatbot (MiniGPT) using **Llama 3.2:1B + Ollama** — runs 100% offline
-- 🌱 Currently sharpening: React.js, Node.js, MongoDB, REST APIs
-- 🎯 Actively seeking internships and job opportunities in software development
+```java
+public class KishoreKumar {
+
+    String name     = "Kishore Kumar K";
+    String role     = "Aspiring Full Stack Developer";
+    String training = "Java Full Stack @ Tap Academy, Bengaluru";
+    String college  = "P.S.N.A College Of Engineering And Technology";
+    double gpa      = 8.22;
+
+    String[] interests = {
+        "Full Stack Web Development",
+        "Agentic AI & LLMs",
+        "Cybersecurity Tools",
+        "Open Source Projects"
+    };
+
+    String motto = "Building scalable solutions one commit at a time 🚀";
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML · CSS · JavaScript · React.js  
-**Backend:** Node.js · Express.js  
-**Database:** MySQL · MongoDB  
-**Tools:** Git · GitHub · VS Code · Ollama  
-**Languages:** Python · JavaScript  
-**Other:** REST APIs · LaTeX · Scikit-learn · Pandas
+### 💬 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🧰 Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Used |
-|--------|-------------|-----------|
-| 🔍 AI Threat Hunting System | Hybrid framework using Z-score anomaly detection + Sigma/Snort rules | Python, Pandas, Scikit-learn |
-| 🤖 MiniGPT Local Chatbot | Offline AI chatbot running Llama 3.2:1B via Ollama | Node.js, Express.js, HTML/CSS/JS |
-| ✅ To-Do List App | Clean CRUD task manager | HTML, CSS, JavaScript |
-| 🌐 Portfolio Website | Personal developer portfolio | HTML, CSS, JavaScript |
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ AI-Driven Hybrid Threat Hunting Framework
+> Cybersecurity framework combining **statistical anomaly detection** with a **rule-based intelligence engine** to identify known & unknown network threats.
+
+**Tech:** `Python` `SQLite` `Anomaly Detection` `Real-time Dashboard`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishorekumar-2004)
+
+</td>
+<td width="50%">
+
+### 🤖 MiniGPT-Based Local Chat System
+> Fully **offline** chat system powered by a **local LLM** — complete data privacy with no external API dependency, browser-based UI.
+
+**Tech:** `Python` `Local LLM` `HTML/CSS/JS` `Message History`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishorekumar-2004)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 Personal Portfolio Website
+> Single-page portfolio built with **HTML, CSS & JavaScript** — clean layout, smooth navigation, and fully deployable online.
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishorekumar-2004)
+
+</td>
+<td width="50%">
+
+### 🎯 Currently Working On...
+> **Full Stack Web App @ Tap Academy**
+> Integrating **Agentic AI** concepts into intelligent, automated real-world solutions with Spring Boot + React.
+
+**Tech:** `Java` `Spring Boot` `React` `MongoDB` `Agentic AI`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishorekumar-2004&show_icons=true&theme=default&hide_border=true&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorekumar-2004&layout=compact&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kishorekumar-2004&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishorekumar-2004&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kishorekumar-2004&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🏅 Certifications
 
-- 📜 **Published Researcher** — ICLTSET 2026, Paper ID: 243
-- 🧑‍💻 Final Year CSE Student with hands-on AI/ML + Web Dev projects
-- 🤝 Developed research under guidance of Mr. M. Kamarajan, AP/CSE
+| 📜 Certificate | 🏛️ Issuer |
+|---|---|
+| Introduction to IoT & Digital Transformation | Cisco Networking Academy |
+| Bootstrap Training | IIT Bombay (Spoken Tutorial) |
+| Arduino Training | IIT Bombay (Spoken Tutorial) |
+| IEEE Xplore Training | IEEE |
 
 ---
 
-## 📫 Connect With Me
+## 🎓 Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kishore-kumar-2004k)
+| 📅 Year | 🎓 Degree | 🏫 Institution | 📊 Score |
+|---|---|---|---|
+| 2023 – 2026 | B.E (CSE) | P.S.N.A College Of Engineering And Technology | GPA: 8.22/10 |
+| 2020 – 2023 | DCE (Civil Engg.) | Rathnavel Subramaniam Polytechnic College | GPA: 9.4/10 |
+| 2019 – 2020 | Higher Secondary | PRNP Vidhya Mandhir HR.SEC School | 64% |
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishore-kumar-2004k)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kishorekumar-2004)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishoredg1@gmail.com)
+
+</div>
 
 ---
 
-*"Keep building. Keep learning."* 🚀
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Kishorekumar-2004&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=footer" />
+
+</div>
