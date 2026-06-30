@@ -14,25 +14,17 @@
 
 ## 🧑‍💻 About Me
 
-```java
-public class KishoreKumar {
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-    String name     = "Kishore Kumar K";
-    String role     = "Aspiring Full Stack Developer";
-    String training = "Java Full Stack @ Tap Academy, Bengaluru";
-    String college  = "P.S.N.A College Of Engineering And Technology";
-    double gpa      = 8.22;
-
-    String[] interests = {
-        "Full Stack Web Development",
-        "Agentic AI & LLMs",
-        "Cybersecurity Tools",
-        "Open Source Projects"
-    };
-
-    String motto = "Building scalable solutions one commit at a time 🚀";
-}
-```
+- 🎓 &nbsp; B.E in **Computer Science** at P.S.N.A College of Engineering *(GPA: 8.22)*
+- 💼 &nbsp; Training as **Java Full Stack Developer** @ Tap Academy, Bengaluru
+- 🤖 &nbsp; Exploring **Agentic AI** & integrating LLMs into real-world apps
+- 🛡️ &nbsp; Built a **Cybersecurity threat detection** framework with anomaly detection
+- 🤫 &nbsp; Built a **100% offline** local LLM chat system for full data privacy
+- 🌱 &nbsp; Currently learning **Spring Boot + React + MongoDB**
+- 💬 &nbsp; Ask me about **Java, Full Stack Dev, AI tools**
+- 📫 &nbsp; Reach me at **kishoredg1@gmail.com**
+- ⚡ &nbsp; Fun fact: I went from **Polytechnic (9.4 GPA)** → Degree → Full Stack Dev!
 
 ---
 
